@@ -1,0 +1,62 @@
+body{
+    background-image: url(volcano.JPEG) ;
+    
+}
+header{
+    background-color: rgb(37, 37, 224);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    height: 100px;
+    padding: 8px;
+}
+nav ul a {
+    text-decoration: none;
+}
+nav a {
+    color: cornsilk;
+    font-weight: bold;
+}
+a:hover{
+    color: black;
+}
+section {
+    margin: auto;
+    padding: 20px;
+    
+    border: 1px solid #ccc;
+}
+footer {
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(29, 29, 206);
+    height: 250px;
+}
+li {
+    text-decoration: none;    
+    color: rgb(10, 255, 26);
+    padding: 10px;
+    list-style: upper-latin;
+    text-align: center;
+    display: inline-block;
+}
+p{
+    color: rgb(90, 238, 4);
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    color: rgb(43, 255, 0);
+    text-align: center;
+}
+section li {
+    color: rgb(42, 249, 73)8;
+}
+section li {
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(54, 254, 14);
+}
+.contact{
+    text-align: center;
+}
